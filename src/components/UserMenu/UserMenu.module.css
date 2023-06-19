@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.username {
+    font-weight: 700;
+}
+
+.button {
+    margin-left: 10px;
+    background-color: darkgray;
+    color: black;
+    border: 3px solid #4cafa7;
+    border-radius: 5%;
+
+    padding: 3px 5px;
+}
+
+.button:hover {
+    color: white;
+    background-color: #4cafa7;
+}
